@@ -1,0 +1,12 @@
+﻿  tut_03_05.cpp
+c:\users\oaj31\onedrive\desktop\cs-330-master\cs-330-master\module03\tut_03_05.cpp(223): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\oaj31\onedrive\desktop\cs-330-master\cs-330-master\module03\tut_03_05.cpp(339): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\oaj31\onedrive\desktop\cs-330-master\cs-330-master\module03\tut_03_05.cpp(340): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\oaj31\onedrive\desktop\cs-330-master\cs-330-master\module03\tut_03_05.cpp(343): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\oaj31\onedrive\desktop\cs-330-master\cs-330-master\module03\tut_03_05.cpp(344): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\oaj31\onedrive\desktop\cs-330-master\cs-330-master\module03\tut_03_05.cpp(345): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\oaj31\onedrive\desktop\cs-330-master\cs-330-master\module03\tut_03_05.cpp(346): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\oaj31\onedrive\desktop\cs-330-master\cs-330-master\module03\tut_03_05.cpp(353): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  tutorial_03_05.vcxproj -> C:\Users\oaj31\OneDrive\Desktop\CS-330-master\CS-330-master\Debug\tutorial_03_05.exe
+  C:\Users\oaj31\OneDrive\Desktop\CS-330-master\CS-330-master\bin\glew-2.2.0\Release\Win32\glew32.dll
+  1 File(s) copied
